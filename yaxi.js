@@ -1,50 +1,31 @@
 const Discord = require("discord.js");
-const myid = ['790233637580832788']
-const wolf = new Discord.Client();
-const wolf2 = new Discord.Client();
-const wolf3 = new Discord.Client();
-const wolf4 = new Discord.Client();
-const wolf5 = new Discord.Client();
-const wolf6 = new Discord.Client();
-const wolf7 = new Discord.Client();
-const wolf8 = new Discord.Client();
-const wolf9 = new Discord.Client();
-const wolf10 = new Discord.Client();
-const wolf11 = new Discord.Client();
-const wolf12 = new Discord.Client();
-const wolf13 = new Discord.Client();
-const wolf14 = new Discord.Client();
-const wolf15 = new Discord.Client();
-const wolf16 = new Discord.Client();
-const wolf17 = new Discord.Client();
-const wolf18 = new Discord.Client();
-const wolf19 = new Discord.Client();
-const wolf20 = new Discord.Client();
+const myid = ['id xot dane']
+const yaxi = new Discord.Client();
+const yaxi2 = new Discord.Client();
+const yaxi3 = new Discord.Client();
+const yaxi4 = new Discord.Client();
+const yaxi5 = new Discord.Client();
+const yaxi6 = new Discord.Client();
+const yaxi7 = new Discord.Client();
+const yaxi8 = new Discord.Client();
+const yaxi9 = new Discord.Client();
+const yaxi10 = new Discord.Client();
+const yaxi11 = new Discord.Client();
+const yaxi12 = new Discord.Client();
+const yaxi13 = new Discord.Client();
+const yaxi14 = new Discord.Client();
+const yaxi15 = new Discord.Client();
+const yaxi16 = new Discord.Client();
+const yaxi17 = new Discord.Client();
+const yaxi18 = new Discord.Client();
+const yaxi19 = new Discord.Client();
+const yaxi20 = new Discord.Client();
 
 
-wolf.login("");
-wolf2.login("");
-wolf3.login("");
-wolf4.login("");
-wolf5.login("");
-wolf6.login("");
-wolf7.login("");
-wolf8.login("");
-wolf9.login("");
-wolf10.login("");
-wolf11.login("");
-wolf12.login("");
-wolf13.login("");
-wolf14.login("");
-wolf15.login("");
-wolf16.login("");
-wolf17.login("");
-wolf18.login("");
-wolf19.login("");
-wolf20.login("");
 
-//// By : Wolf
-wolf.on('message', message => {
+
+//// By : The\ DrYaxi
+yaxi.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -58,7 +39,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf2.on('message', message => {
+yaxi2.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -72,7 +53,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf3.on('message', message => {
+yaxi3.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -86,7 +67,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf4.on('message', message => {
+yaxi4.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -100,7 +81,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf5.on('message', message => {
+yaxi5.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -114,7 +95,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf6.on('message', message => {
+yaxi6.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -128,7 +109,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf7.on('message', message => {
+yaxi7.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -142,7 +123,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf8.on('message', message => {
+yaxi8.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -156,7 +137,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf9.on('message', message => {
+yaxi9.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -170,7 +151,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf10.on('message', message => {
+yaxi10.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -184,7 +165,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf11.on('message', message => {
+yaxi11.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -198,7 +179,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf12.on('message', message => {
+yaxi12.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -212,7 +193,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf13.on('message', message => {
+yaxi13.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -226,7 +207,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf14.on('message', message => {
+yaxi14.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -240,7 +221,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf15.on('message', message => {
+yaxi15.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -254,7 +235,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf16.on('message', message => {
+yaxi16.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -268,7 +249,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf17.on('message', message => {
+yaxi17.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -282,7 +263,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf18.on('message', message => {
+yaxi18.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -296,7 +277,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf19.on('message', message => {
+yaxi19.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -310,7 +291,7 @@ if (message.content === '&spam') {
       }
 });
 
-wolf20.on('message', message => {
+yaxi20.on('message', message => {
 if (message.content === '&spam') {
       let count = 0;
       let ecount = 0;
@@ -324,4 +305,30 @@ if (message.content === '&spam') {
       }
 });
 
-///////By : WOLF
+
+////// Token Lera Dane ////
+yaxi.login("");
+yaxi2.login("");
+yaxi3.login("");
+yaxi4.login("");
+yaxi5.login("");
+yaxi6.login("");
+yaxi7.login("");
+yaxi8.login("");
+yaxi9.login("");
+yaxi10.login("");
+yaxi11.login("");
+yaxi12.login("");
+yaxi13.login("");
+yaxi14.login("");
+yaxi15.login("");
+yaxi16.login("");
+yaxi17.login("");
+yaxi18.login("");
+yaxi19.login("");
+yaxi20.login("");
+
+
+////// by : DrYaxi 
+
+////Dr.Staff Up
